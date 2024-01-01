@@ -35,8 +35,8 @@ Feel free to reach out for collaborations or just a chat:
 - I love experimenting with new AI models and automation tools in my personal projects. Check out my repositories for more!
 
 ---
-
 I believe in the power of automation and AI to transform the way we work and live. Let's connect and explore how we can collaborate on innovative projects!
+
 ---
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mboiman&show_icons=true)
