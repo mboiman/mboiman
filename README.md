@@ -12,6 +12,9 @@ With over 20 years of experience in software development quality processes, I sp
 Feel free to reach out for collaborations or just a chat:
 - Email: [mboiman@gmail.com](mailto:mboiman@gmail.com)
 
+### 🌐 Profile
+- Check out my [personal website](https://mboiman.github.io) for more about my work and projects.
+
 ### 💼 Professional Expertise
 - **Quality Assurance**: Implementing Quality Gates through test automation in CI/CD pipelines.
 - **Dynamic Testing Systems**: Real-time quality monitoring using dashboards.
@@ -34,6 +37,10 @@ Feel free to reach out for collaborations or just a chat:
 ---
 
 I believe in the power of automation and AI to transform the way we work and live. Let's connect and explore how we can collaborate on innovative projects!
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mboiman&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mboiman&layout=compact)](https://github.com/mboiman/github-readme-stats)
+[![Michael's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mboiman)](https://github.com/mboiman/github-readme-stats)
+
 <!--
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
@@ -42,4 +49,3 @@ I believe in the power of automation and AI to transform the way we work and liv
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mboiman)
