@@ -38,10 +38,11 @@ Feel free to reach out for collaborations or just a chat:
 
 I believe in the power of automation and AI to transform the way we work and live. Let's connect and explore how we can collaborate on innovative projects!
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mboiman&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mboiman&layout=compact)](https://github.com/mboiman/github-readme-stats)
-[![Michael's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mboiman)](https://github.com/mboiman/github-readme-stats)
+
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mboiman&layout=compact)](https://github.com/mboiman/github-readme-stats)
+[![Michael's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mboiman)](https://github.com/mboiman/github-readme-stats)
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
