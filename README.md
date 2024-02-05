@@ -59,6 +59,11 @@ Feel free to reach out for collaborations or just a chat:
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-0062AD?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-FF4B4B?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![AutoGen](https://img.shields.io/badge/-AutoGen-7F52FF?style=flat-square&logo=autocode&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-007ACC?style=flat-square&logo=language&logoColor=white)
+
 
 ### 📘 Continuous Learning
 - Passionate about learning and implementing new technologies in AI and automation.
