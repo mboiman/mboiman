@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Michael Boiman!
+# Hi there 🖖, I'm Michael Boiman!
 
 ## AI & Automation Expert | Full Stack Quality Engineer
 
