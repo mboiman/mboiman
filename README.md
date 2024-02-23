@@ -13,7 +13,7 @@ Feel free to reach out for collaborations or just a chat:
 - Email: [mboiman@gmail.com](mailto:mboiman@gmail.com)
 
 ### 🌐 Profile
-- Check out my [personal website](https://mboiman.github.io) for more about my work and projects.
+- Check out my [personal cv website](https://mboiman.github.io) for more about my work and projects.
 
 ### 💼 Professional Expertise
 - **Quality Assurance**: Implementing Quality Gates through test automation in CI/CD pipelines.
