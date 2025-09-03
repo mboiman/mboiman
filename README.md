@@ -20,7 +20,7 @@
 
 ```yaml
 location: Germany 🇩🇪
-languages: [German (Native), English (Fluent), Russian, Hebrew]
+languages: [German (Native), English (Fluent)]
 current_focus: 
   - Automating AI processes for more efficient and effective outcomes
   - Exploring innovative solutions in Machine Learning and Deep Learning
