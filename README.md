@@ -3,7 +3,7 @@
 # Michael Boiman 
 ### 🚀 Quality Engineering & Enterprise AI Expert | 20+ Years QE | 4+ Years AI Development
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Transforming+Business+Through+AI-Powered+Quality+Engineering;80%25+Automation+|+95%25+Accuracy+|+Enterprise-Ready+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Quality+Engineering+%C3%97+AI+Architecture;MCP+%26+A2A+Agents+|+E-Invoicing+|+Claude+Code+as+Primary+Stack)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mboiman&color=blue&style=flat-square)](https://github.com/mboiman)
 [![LinkedIn](https://img.shields.io/badge/-Michael_Boiman-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mboiman/)
@@ -20,7 +20,7 @@
 
 ```yaml
 location: Germany 🇩🇪
-languages: [German (Native), English (Fluent)]
+languages: [German (Native), English (Fluent), Russian, Hebrew]
 current_focus: 
   - Automating AI processes for more efficient and effective outcomes
   - Exploring innovative solutions in Machine Learning and Deep Learning
@@ -41,8 +41,8 @@ available_for:
 <summary><b>🤖 AI & Machine Learning Expertise</b></summary>
 
 ### Enterprise AI Integration
-- **LLMs**: GPT-4o, Claude 3.5, Gemini Pro, Llama 3, Mistral
-- **Frameworks**: LangChain, LlamaIndex, Hugging Face, AutoGen
+- **LLMs**: Claude (primary — Claude Code with Skills, Hooks & MCP), Google Gemini, OpenAI GPT
+- **Frameworks**: LangChain, Hugging Face, custom MCP servers
 - **Protocols**: Model Context Protocol (MCP), Agent-to-Agent (A2A)
 - **Vector DBs**: Pinecone, Weaviate, Elasticsearch, ChromaDB
 - **RAG Systems**: 95%+ Accuracy, EU-compliant implementations
@@ -127,16 +127,16 @@ available_for:
 
 <div align="center">
 
-| Project | Description | Tech Stack | Impact |
+| Project | Description | Tech Stack | Status |
 |---------|-------------|------------|---------|
-| **AI Email Automation** | Enterprise email classification & processing with ML models | `Python` `Azure Functions` `GPT-4` `Graph API` | 80% reduction in manual work |
-| **Quality Dashboard** | Real-time quality monitoring across 10 test tools & 5 environments | `Grafana` `Elasticsearch` `Python` `CI/CD` | Go/No-Go in minutes vs hours |
-| **24/7 Legacy Migration Validator** | Automated dual-run quality engineering system | `Java` `Cucumber` `Kibana` `Elasticsearch` | Quality metrics: 30% → 96% |
+| **Live CV Agent (A2A)** | Self-hosted representative agent answering my CV — free/busy calendar, meeting intake under human approval | `Claude Code` `A2A` `JSON-RPC` `SSE` | Live: [mboiman.github.io](https://mboiman.github.io) |
+| **AI Context Orchestrator** | Multi-repo orchestration hub — 20+ repos, 40+ Claude Code skills, hook-based permission system | `Claude Code` `Python` `YAML` `GitHub Actions` | In daily production use |
+| **E-Invoicing Platform** | Peppol/EN 16931 pipeline (XRechnung, ZUGFeRD, UBL) with ERP coupling | `Python` `Azure Functions` `Peppol` `SAP` | Live operations |
+| **AI Email Automation** | Enterprise email classification & processing | `Python` `Azure Functions` `LLMs` `Graph API` | In production |
+| **24/7 Legacy Migration Validator** | Automated dual-run quality engineering for a mainframe price calculation | `Java` `Cucumber` `Kibana` `Elasticsearch` | Migration completed safely |
 | **MCP & A2A Protocol Implementation** | Next-gen AI interoperability protocols | `TypeScript` `JSON-RPC` `LLMs` `SSE` | Enterprise-ready multi-agent AI |
-| **AI-Powered Test Automation** | Guideline-based test generation from Jira stories | `Python` `GPT-4` `Playwright` `IDE Integration` | 80% auto-generated tests |
-| **Enterprise AI Chatbot** | RAG-based chatbot for trade fair interaction | `Python` `GPT-4` `Vector DB` `FastAPI` | 95%+ accuracy |
+| **AI-Powered Test Automation** | Guideline-based test generation from Jira stories | `Python` `LLMs` `Playwright` | AI-generated test suites |
 | **wecation** | Collaborative experience planning platform | `Flutter` `Google Cloud` `Firebase` | Live: [wecation.de](https://www.wecation.de) |
-| **[AI Workshop Materials](https://github.com/boiman-solutions/workshop-q-a-scrap-bot)** | Q&A bot development workshop | `GPT-3.5` `Streamlit` `Embeddings` | 100+ developers trained |
 | **QualityCluster** | Quality engineering community platform | `Hugo` `JavaScript` `GitHub Actions` | Community-driven QE solutions |
 
 </div>
@@ -146,11 +146,11 @@ available_for:
 ## 📈 Recent Activity & Achievements
 
 <!--START_SECTION:activity-->
-- 🎯 Implemented **Model Context Protocol (MCP)** for enterprise AI integration
-- 🚀 Developed **Multi-Agent Orchestration** system with 95% accuracy
+- 🤖 Put a **representative A2A agent** live on my CV — grounded, human-gated meeting intake
+- 🎯 Implemented **Model Context Protocol (MCP)** servers for enterprise AI integration
+- 🚀 Built a **multi-agent orchestration hub** running daily across 20+ repositories
 - 📚 Conducted workshop: **"AI Agent Development with MCP & A2A Protocols"** (06/2025)
-- 🏆 Achieved **80% test automation** with AI-powered generation
-- 💡 Published enterprise presentation on **"Efficient Documentation through Automation"**
+- 🎓 Guest speaker at **TU Darmstadt** — hands-on AI practice for technical audiences
 <!--END_SECTION:activity-->
 
 ### 🏅 Certifications & Achievements
@@ -158,17 +158,15 @@ available_for:
 - 🏆 **ISTQB Certified Tester**
 - 🚀 **20+ Years Quality Engineering Experience**
 - 🤖 **4+ Years Enterprise AI Development**
-- 📊 **100+ Enterprise Projects Delivered**
 
 ---
 
-## 📅 Upcoming Events & Workshops
+## 📅 Workshops & Talks
 
-### 🎯 AI Agent Development Workshop (2025)
-**Topics**: MCP Protocol, Multi-Agent Systems, Playwright Automation, Production AI
-- 📅 **Date**: June 2025
+### 🎯 AI Agent Development Workshop
+**Topics**: MCP Protocol, Multi-Agent Systems, Playwright Automation, Production AI — Claude Code as primary stack
 - 👥 **Target**: Developers, Tech Leads, DevOps Engineers
-- 🎫 **Registration**: [Contact me](mailto:mboiman@gmail.com)
+- 🎫 **Booking**: [Contact me](mailto:mboiman@gmail.com)
 
 ### 💼 Enterprise AI Consulting
 Available for strategic consulting on:
