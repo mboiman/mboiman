@@ -8,8 +8,8 @@
 
 **Available for new projects**
 
-[![CV](https://img.shields.io/badge/CV-English-1f6feb?style=flat-square)](https://mboiman.github.io/en/)
-[![Lebenslauf](https://img.shields.io/badge/Lebenslauf-Deutsch-1f6feb?style=flat-square)](https://mboiman.github.io/de/)
+[![CV](https://img.shields.io/badge/CV-English-1f6feb?style=flat-square)](https://michael.boiman.net/cv/en/)
+[![Lebenslauf](https://img.shields.io/badge/Lebenslauf-Deutsch-1f6feb?style=flat-square)](https://michael.boiman.net/cv/de/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mboiman-0A66C2?style=flat-square)](https://www.linkedin.com/in/mboiman/)
 [![Email](https://img.shields.io/badge/mboiman%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mboiman@gmail.com)
 
@@ -59,43 +59,44 @@ curl -s https://mboiman.bks-lab.com/ \
   -d '{"jsonrpc":"2.0","id":1,"method":"SendMessage","params":{"message":{"messageId":"hello-1","role":"ROLE_USER","parts":[{"text":"Which programming languages does Michael use most?"}]}}}'
 ```
 
-Its [agent card](https://mboiman.bks-lab.com/.well-known/agent-card.json) lists what else it does: availability, meeting requests, questions about open-bridge. Or use the chat on the [CV page](https://mboiman.github.io/en/).
+Its [agent card](https://mboiman.bks-lab.com/.well-known/agent-card.json) lists what else it does: availability, meeting requests, questions about open-bridge. Or use the chat on the [CV page](https://michael.boiman.net/cv/en/).
 
-**Match your project.** Paste a project description on [mboiman.github.io/en/match](https://mboiman.github.io/en/match/) and the decision model Jev scores it against my CV, requirement by requirement.
+**Match your project.** Paste a project description on [michael.boiman.net/cv/en/match](https://michael.boiman.net/cv/en/match/) and the decision model Jev scores it against my CV, requirement by requirement.
 
 ## Stations
 
 | When | Role | Sector |
 |---|---|---|
-| since 06/2025 | [LLM Infrastructure Architect & Automation Engineer](https://mboiman.github.io/en/#exp-bks-llm-infra) | Own firm, internal R&D |
-| 09/2026-10/2026 | [AI Test Automation Engineer · Building the AI Test Automation Process](https://mboiman.github.io/en/#exp-kion) | Industrial group, customer portal |
-| 09/2025-09/2026 | [Senior Quality Engineer · Test Automation and Monitoring](https://mboiman.github.io/en/#exp-tuev-sued) | Testing and certification, medical devices |
-| 08/2021-05/2025 | [Platform Quality Architect (CI/CD, Monitoring, Automation)](https://mboiman.github.io/en/#exp-dvag) | Financial services |
-| 01/2024-04/2025 | [Technical Lead & AI Automation Architect](https://mboiman.github.io/en/#exp-bks-ai-automation) | Client in the digital economy |
-| 07/2024-01/2025 | [AI-driven QA Environment for Energy Infrastructure](https://mboiman.github.io/en/#exp-akkuswap) | Energy startup |
+| since 06/2025 | [LLM Infrastructure Architect & Automation Engineer](https://michael.boiman.net/cv/en/#exp-bks-llm-infra) | Own firm, internal R&D |
+| since 04/2026 | [AI Assistant for Patient Requests on AWS Bedrock (EU)](https://michael.boiman.net/cv/en/#exp-bedrock-praxis) | Healthcare, medical practice |
+| 09/2026-10/2026 | [AI Test Automation Engineer · Building the AI Test Automation Process](https://michael.boiman.net/cv/en/#exp-kion) | Industrial group, customer portal |
+| 09/2025-09/2026 | [Senior Quality Engineer · Test Automation and Monitoring](https://michael.boiman.net/cv/en/#exp-tuev-sued) | Testing and certification, medical devices |
+| 08/2021-05/2025 | [Platform Quality Architect (CI/CD, Monitoring, Automation)](https://michael.boiman.net/cv/en/#exp-dvag) | Financial services |
+| 01/2024-04/2025 | [Technical Lead & AI Automation Architect](https://michael.boiman.net/cv/en/#exp-bks-ai-automation) | Client in the digital economy |
 
 <details>
 <summary>Earlier stations</summary>
 
 | When | Role | Sector |
 |---|---|---|
-| 04/2023-04/2024 | [AI Engineering Lead & ML Solutions Architect](https://mboiman.github.io/en/#exp-ai-engineering-lead) | Publishing house |
-| 06/2021-08/2021 | [Founder of a QA consultancy and a quality engineering community](https://mboiman.github.io/en/#exp-boiman-solutions) | Own firm |
-| 01/2017-05/2021 | [DevOps Quality Lead & Dashboard Architect](https://mboiman.github.io/en/#exp-db-vertrieb) | Rail, sales |
-| 09/2015-01/2017 | [Performance Engineering Lead & Test Architect](https://mboiman.github.io/en/#exp-db-systel) | Rail, IT services |
-| 04/2015-09/2015 | [Senior iOS Developer & Mobile Architect](https://mboiman.github.io/en/#exp-telekom) | Telecommunications |
-| 05/2009-03/2015 | [Quality Assurance Lead & Test Automation Architect](https://mboiman.github.io/en/#exp-siemens) | Industrial technology |
-| 03/2009-05/2009 | [Performance Test Engineer & Load Testing Specialist](https://mboiman.github.io/en/#exp-ing-diba) | Banking |
-| 09/2005-12/2008 | [Performance Test Engineer & Quality Consultant](https://mboiman.github.io/en/#exp-consulting-2006-2008) | QA consultancy, freelance |
+| 07/2024-01/2025 | [AI-driven QA Environment for Energy Infrastructure](https://michael.boiman.net/cv/en/#exp-akkuswap) | Energy startup |
+| 04/2023-04/2024 | [AI Engineering Lead & ML Solutions Architect](https://michael.boiman.net/cv/en/#exp-ai-engineering-lead) | Publishing house |
+| 06/2021-08/2021 | [Founder of a QA consultancy and a quality engineering community](https://michael.boiman.net/cv/en/#exp-boiman-solutions) | Own firm |
+| 01/2017-05/2021 | [DevOps Quality Lead & Dashboard Architect](https://michael.boiman.net/cv/en/#exp-db-vertrieb) | Rail, sales |
+| 09/2015-01/2017 | [Performance Engineering Lead & Test Architect](https://michael.boiman.net/cv/en/#exp-db-systel) | Rail, IT services |
+| 04/2015-09/2015 | [Senior iOS Developer & Mobile Architect](https://michael.boiman.net/cv/en/#exp-telekom) | Telecommunications |
+| 05/2009-03/2015 | [Quality Assurance Lead & Test Automation Architect](https://michael.boiman.net/cv/en/#exp-siemens) | Industrial technology |
+| 03/2009-05/2009 | [Performance Test Engineer & Load Testing Specialist](https://michael.boiman.net/cv/en/#exp-ing-diba) | Banking |
+| 09/2005-12/2008 | [Performance Test Engineer & Quality Consultant](https://michael.boiman.net/cv/en/#exp-consulting-2006-2008) | QA consultancy, freelance |
 
 </details>
 
 **Talks and workshops**
 
-- **04/2026** · [Guest Lecture: AI-Assisted Software Development in Practice](https://mboiman.github.io/en/#exp-tu-darmstadt)
-- **06/2025** · [Workshop: Development with Generative Language Models](https://mboiman.github.io/en/#exp-workshop-genai)
-- **04/2025** · [Presentation: Efficient Documentation through Automation](https://mboiman.github.io/en/#exp-presentation-ai-docs)
-- **2023** · [Applications of AI in Business Context](https://mboiman.github.io/en/#exp-ki-workshop-business)
+- **04/2026** · [Guest Lecture: AI-Assisted Software Development in Practice](https://michael.boiman.net/cv/en/#exp-tu-darmstadt)
+- **06/2025** · [Workshop: Development with Generative Language Models](https://michael.boiman.net/cv/en/#exp-workshop-genai)
+- **04/2025** · [Presentation: Efficient Documentation through Automation](https://michael.boiman.net/cv/en/#exp-presentation-ai-docs)
+- **2023** · [Applications of AI in Business Context](https://michael.boiman.net/cv/en/#exp-ki-workshop-business)
 
 ## Toolbox
 
@@ -120,10 +121,10 @@ Its [agent card](https://mboiman.bks-lab.com/.well-known/agent-card.json) lists 
 | Area | Skills |
 |---|---|
 | **Quality Engineering** | Quality Engineering · Specification & Verification Design · Playwright · Behave / pytest (BDD) · Cucumber/Gauge · JMeter · Gatling |
-| **AI & Agents** | Claude Code (Skills, Hooks, MCP) · Agent Harness Engineering · LLMs (Claude, Gemini, GPT) · Local LLMs (vLLM, Ollama) · LLM Evaluation & Benchmarks · Hugging Face (Spaces, Datasets) · Agent Orchestration (MCP & A2A) · a2a-sdk & Agent Cards · Google ADK · LangChain |
+| **AI & Agents** | Claude Code (Skills, Hooks, MCP) · Agent Harness Engineering · LLMs (Claude, Gemini, GPT) · Local LLMs (vLLM, Ollama) · LLM Evaluation & Benchmarks · Hugging Face (Spaces, Datasets) · Agent Orchestration (MCP & A2A) · a2a-sdk & Agent Cards · Google ADK · LangChain · AWS Bedrock (Claude, EU) |
 | **Delivery & Automation** | Python · TypeScript · FastAPI · JSON-RPC 2.0 & SSE · CI/CD · Docker & Container · REST APIs · Agile (Scrum/Kanban) |
 | **Platform & Monitoring** | Peppol/E-Invoicing (EN 16931) · Azure Functions · Azure DevOps · Azure Monitor & KQL · Cloudflare (Workers, Pages, R2) · Microsoft 365 / Exchange Online · Grafana · Elasticsearch · Kibana · OpenTelemetry / OTLP |
-| **More** | AWS · Google Cloud · VMware · PowerShell · LoadRunner (VuGen, Web HTTP/HTML, TruClient, Citrix) · SoapUI · Jira with Zephyr / Xray · Dynatrace · Jenkins · Instana |
+| **More** | Camunda / BPMN · Java (Maven, Gradle) · Google Cloud · VMware · PowerShell · LoadRunner (VuGen, Web HTTP/HTML, TruClient, Citrix) · SoapUI · Jira with Zephyr / Xray · Dynatrace · Jenkins · Instana |
 
 </details>
 
@@ -144,4 +145,4 @@ Languages: German (native), English (fluent (c1))
 
 ---
 
-<sub>Stations, talks, skills, education and languages are generated from the same TOML file as my <a href="https://mboiman.github.io/en/">CV</a> and checked in its CI. Every tool badge has to appear in the CV, or the build fails.</sub>
+<sub>Stations, talks, skills, education and languages are generated from the same TOML file as my <a href="https://michael.boiman.net/cv/en/">CV</a> and checked in its CI. Every tool badge has to appear in the CV, or the build fails.</sub>
